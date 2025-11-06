@@ -1,5 +1,4 @@
 # naval_batle_game
-_ArtPhil_ © 2017
 
 # Jogo Batalha Naval desenvolvido para fins acadêmicos
 * [Objetivos](#objetivos)
